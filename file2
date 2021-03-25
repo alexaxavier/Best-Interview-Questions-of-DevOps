@@ -1,0 +1,55 @@
+1. What is DevOps?
+
+DevOps is the shortened form of Development and Operations which is a proven practice that is best for software development. These practices and principles help the software development teams to effectively communicate and collaborate while developing the software.
+
+2. What are the important benefits of using DevOps in software companies?
+
+Following are the core benefits that DevOps facilitates in a company:
+
+It increases the deployment frequency of the software
+If a new software is released, DevOps helps to avoid any failure rates
+DevOps helps the developers to fix the bugs in shorter time
+In case of software crashes, DevOps helps to speed up the recovery process
+DevOps enables the developers to deliver the new features on time
+It creates stable and reliable operating environment for the software
+Saves the money by reducing the time taken to develop the software
+3. Name some popular companies that are benefited using DevOps.
+
+Top IT enterprises like Amazon, Google, and Etsy have reported adopting DevOps and achieved improvement in terms of performance and efficiency.Being a large software manufacturer, they develop tens and thousands of software code deployments every day.
+
+4. What is Agile/Software Development Life Cycle?
+
+Agile or Software Development Life Cycle is a set of fundamental principles and standards that are recommended by most of the software organization to follow while developing a software product.
+
+5. How DevOps differs from Agile / Software Development Lifecycle?
+
+In simple terms, Agile/Software Development Life Cycle is a set of principles that can help the developers to turn ideas into a working software. By following Agile principles, the developers can plan and develop the software to satisfy the required functionality. Whereas DevOps, on the other hand, is more advanced and logical principles that help the developers to create and deploy the software in a safest and effective manner.
+
+6. What are included in the DevOps?
+
+Typically, DevOps is comprised of various principles, standards, tools and techniques that help the software developers to create the software quickly and achieve maximum reliability.
+
+7. Name some popular DevOps Tools.
+
+Following are some of the popular DevOps tools used by developers around the world:
+
+Selenium: Continuous Testing tool
+Puppet, Chef, Ansible: Configuration Management and Deployment tools
+Git: Version Control System tool
+Nagios: Continuous Monitoring tool
+Jenkins: Continuous Integration tool
+Docker: Containerization tool
+8. What are the technical benefits of using DevOps?
+
+DevOps is preferred by the majority of the software developers in top companies for its reliability and technical benefits. Following are the various technical benefits of using DevOps for software development,
+
+Consistent and timely development and delivery the software product on time
+It minimizes the number of complex issues or bugs arising in the software development
+Enables the developers to quickly resolve or fix the bugs in the software
+9. Is DevOps a process?
+
+No. DevOps is clearly not just a process. However, its principles, standards, techniques and tools will include various processes.
+
+10. Will DevOps solve all the problems in the software?
+
+No. Since DevOps contains tools, principles, and techniques to develop the software safely and easily. However, it will not rectify any software issues on its own. It helps the developers to fix the problems in an effective way.
